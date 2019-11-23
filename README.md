@@ -1,1 +1,1 @@
-# philosophyMap
+# philosophyNode
